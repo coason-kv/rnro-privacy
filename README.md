@@ -1,4 +1,49 @@
-# RNRO
+# RNRO 
+
+# RNRO Politika Privatnosti
+
+Ova aplikacija je napravljena od strane kabineta ministra bez portfelja zaduženog za unapređenje razvoja nerazvijenih opština u Srbiji i omogućava intenzivniju komunikaciju Kabineta sa predsednicima jedinica lokalne samouprave u cilju što efikasnijeg rada.
+Ova stranica se koristi za informisanje posetilaca u vezi sa našim politikama u vezi sa prikupljanjem, upotrebom i otkrivanjem ličnih podataka ako neko odluči da koristi našu uslugu. 
+Ako odlučite da koristite našu uslugu, onda se slažete sa prikupljanjem i korišćenjem informacija u vezi sa ovom politikom. 
+Lični podaci koje prikupljamo koriste se za pružanje i poboljšanje Usluge. 
+Nećemo koristiti niti deliti vaše podatke ni sa kim osim na način opisan u ovoj Politici privatnosti. 
+Izrazi koji se koriste u ovoj Politici privatnosti imaju ista značenja kao u našim Uslovima i odredbama, koji su dostupni na RNRO osim ako nije drugačije definisano u ovoj Politici privatnosti.
+
+# Prikupljanje i korišćenje informacija
+
+RNRO ne prikuplja nikakve osetljive lične podatke, ali aplikacija koristi usluge trećih strana čije uslove korišćenja možete naći na sledećim linkovima:
+
+[Google Play Services](https://www.google.com/policies/privacy/)
+[Expo](https://expo.io/privacy)
+
+# Skupljanje podataka o greškama
+
+Želimo da vas obavestimo da kada god koristite našu uslugu, u slučaju greške u aplikaciji prikupljamo podatke i informacije (preko proizvoda trećih strana) na vašem telefonu. Ovi podaci evidencije mogu uključivati informacije kao što su adresa Internet protokola („IP“) vašeg uređaja, naziv uređaja, verzija operativnog sistema, konfiguracija aplikacije kada koristite našu uslugu, vreme i datum vašeg korišćenja usluge i druge statistike .
+
+# Kolačići
+
+Kolačići su datoteke sa malom količinom podataka koje se obično koriste kao anonimni jedinstveni identifikatori. Oni se šalju vašem pretraživaču sa veb lokacija koje posećujete i čuvaju se u internoj memoriji vašeg uređaja. Ova usluga ne koristi eksplicitno ove „kolačiće“.
+
+# Bezbednost
+
+Cenimo vaše poverenje u pružanju vaših ličnih podataka, stoga nastojimo da koristimo komercijalno prihvatljiva sredstva za njihovu zaštitu. Ali zapamtite da nijedan metod prenosa preko interneta ili metod elektronskog skladištenja nije 100% siguran i pouzdan i ne možemo garantovati njegovu apsolutnu sigurnost.
+
+# Linkovi ka sajtovima izvan aplikacije
+
+Ova usluga može da sadrži veze ka drugim sajtovima. Ako kliknete na vezu treće strane, bićete preusmereni na tu lokaciju. Imajte na umu da ovim spoljnim sajtovima ne upravljamo mi. Stoga vam toplo savetujemo da pregledate Politiku privatnosti ovih veb lokacija. Nemamo kontrolu i ne preuzimamo odgovornost za sadržaj, politiku privatnosti ili praksu bilo kojih sajtova ili usluga trećih strana.
+
+# Promene ove politike privatnosti
+
+Možemo s vremena na vreme ažurirati našu Politiku privatnosti. 
+Stoga vam se savetuje da periodično pregledate ovu stranicu da biste videli bilo kakve promene. 
+Obavestićemo vas o svim promenama objavljivanjem nove Politike privatnosti na ovoj stranici.
+Ova politika je na snazi od 01.12.2021
+
+# Kontaktirajte nas
+
+Ako imate bilo kakvih pitanja ili sugestija o našoj politici privatnosti, ili želite da izbrišete svoj nalog, ne oklevajte da nas kontaktirate na podrska.rnro@gmail.com.
+
+
 # RNRO Privacy Policy
 
 This SERVICE is provided at no cost and is intended for use as is.
